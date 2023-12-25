@@ -1,0 +1,11 @@
+car type encode
+
+suv : 1
+sedan: 2
+convertible: 3
+wagon: 4
+cab: 5
+MPV: 6
+Van: 7
+Hatchback: 8
+Coupe : 9
